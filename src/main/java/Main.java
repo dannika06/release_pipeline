@@ -1,5 +1,5 @@
 public static void main(String[] args) {
-        String text = "Hello all";
+        String text = "Hello world";
         text = truncateString(text, 5);
         System.out.println(text);
 }
