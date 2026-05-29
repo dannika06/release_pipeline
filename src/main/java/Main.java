@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-        String text = "Hello world";
+        String text = "Hello to the world";
         text = truncateString(text, 5);
         System.out.println(text);
     }
